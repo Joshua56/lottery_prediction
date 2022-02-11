@@ -9,7 +9,8 @@
 <hr/>
 
 ## Output examples
-<img src="https://user-images.githubusercontent.com/62216628/152687586-accaaf1e-9734-4d56-bbed-b2dd7dcec7b7.png" width="25%"> 
+<img src="https://user-images.githubusercontent.com/62216628/153557229-ac7e5d07-b26a-45b6-a3cd-37e544c061c8.png" width="25%"> 
+
 
 ## Model
 <img src="https://user-images.githubusercontent.com/62216628/152687274-5025d27d-df65-4ab2-8a3d-289b7257a2e7.png" width="45%">
